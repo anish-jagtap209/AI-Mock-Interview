@@ -1,0 +1,71 @@
+[
+  {
+    "id": "jd-swe-fullstack",
+    "title": "Full-Stack Software Engineer (React & Python)",
+    "company": "TechVanguard Solutions",
+    "experience_level": "Entry to Mid Level (1-3 yrs)",
+    "required_skills": [
+      "React.js",
+      "Python",
+      "FastAPI",
+      "REST APIs",
+      "SQL",
+      "Database Optimization",
+      "Git",
+      "Docker"
+    ],
+    "description": "We are seeking a Full-Stack Software Engineer proficient in building robust RESTful microservices with Python and reactive web dashboards in React.js. Responsibilities include designing scalable relational database schemas in SQL, developing client-side interactive analytics views, and collaborating on API contracts.",
+    "key_technical_topics": [
+      "State Management",
+      "API Latency & Caching",
+      "SQL Joins & Indexing",
+      "Component Reusability",
+      "Authentication & CORS"
+    ]
+  },
+  {
+    "id": "jd-data-analyst",
+    "title": "Data Analyst & BI Specialist",
+    "company": "InsightMatrix Analytics",
+    "experience_level": "Fresher / Associate",
+    "required_skills": [
+      "SQL",
+      "Power BI",
+      "DAX",
+      "Power Query",
+      "Python",
+      "Data Modeling",
+      "Tableau"
+    ],
+    "description": "Looking for a Data Analyst to transform complex business datasets into intuitive dashboards. Candidate will write advanced SQL queries, build Star-schema data models in Power BI, author DAX measures for variance and trend tracking, and communicate data-driven recommendations.",
+    "key_technical_topics": [
+      "Star Schema vs Snowflake",
+      "Calculated Columns vs DAX Measures",
+      "Data Cleaning & Normalization",
+      "ETL Pipelines",
+      "Executive Storytelling"
+    ]
+  },
+  {
+    "id": "jd-ml-engineer",
+    "title": "Machine Learning Engineer (NLP / Computer Vision)",
+    "company": "Acuity AI Labs",
+    "experience_level": "Junior / Entry Level",
+    "required_skills": [
+      "Python",
+      "TensorFlow",
+      "Deep Learning (CNN)",
+      "NLP",
+      "Text Classification",
+      "Model Evaluation"
+    ],
+    "description": "Seeking an ML Engineer to contribute to text analysis pipelines and convolutional neural network (CNN) architectures. Experience with tokenization, semantic embedding matching, classification metrics (F1, Precision, Recall), and model latency optimization is required.",
+    "key_technical_topics": [
+      "Overfitting Prevention & Regularization",
+      "Precision-Recall Tradeoff",
+      "Embedding Distances",
+      "Data Augmentation",
+      "Inference Serving"
+    ]
+  }
+]
